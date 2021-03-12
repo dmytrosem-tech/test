@@ -1,0 +1,33 @@
+body {
+  font-family: sans-serif;
+  line-height: 1.5;
+  color: #1f0707;
+}
+
+img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.post {
+  padding: 20px;
+  max-width: 400;
+  background-color: rgb(241, 211, 211);
+  border: 2px dashed rgb(250, 205, 6);
+}
+
+.mouse-thumb {
+  margin: 0 0 30px 0;
+  border: 2px dashed rgb(45, 49, 23);
+}
+
+.post .title {
+  margin: 0, 0 20px 0;
+  border: 2px dashed rgb(179, 17, 17);
+}
+
+.post .text {
+  margin: 0 0 0 0;
+  border: 2px dashed rgb(6, 248, 6);
+}
